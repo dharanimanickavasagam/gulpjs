@@ -1,0 +1,1 @@
+console.log("this is a line1"),console.log("this is a line2"),console.log("this is a line3"),console.log("this is a line4"),console.log("this is a line5"),console.log("this is a line6"),console.log("this is a file2"),console.log("this is a line2");
